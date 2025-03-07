@@ -86,7 +86,7 @@ img, video, iframe {
     border-radius: 5px;
     transition: 0.3s;
 }
-.navbar ul li a:hover, .navbar ul li a.active {
+.navbar ul li a:hover, .navbar ul li a:active {
     background-color: #ff0000;
 }
 
